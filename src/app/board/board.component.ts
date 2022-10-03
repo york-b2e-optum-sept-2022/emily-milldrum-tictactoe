@@ -26,4 +26,3 @@ export class BoardComponent implements OnInit, OnChanges {
     this.boxesDisplay = [...this.boxes];
   }
   }
-

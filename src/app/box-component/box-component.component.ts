@@ -32,5 +32,6 @@ export class BoxComponentComponent implements OnInit {
   //    this.takeTurns = true;
   //   }
   // }
+  //
 
 }

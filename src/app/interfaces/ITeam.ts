@@ -3,3 +3,4 @@ export interface ITeam{
   red: boolean,
   team:string
 }
+
